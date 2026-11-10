@@ -1,0 +1,23 @@
+# Exercise: Stop the Runaway
+#
+# Start the mess with ./start-the-mess.sh, then look at it with ps, pgrep and top, and stop it
+# with kill and pkill. Answer each question on its numbered line, after the ")". Write only the
+# answer, like the example.
+#
+# Example: which command lists every process on the computer?
+# 0) ps aux
+
+# 1. Which of the mess's programs is using the most CPU? Write its script's name, such as alarm.sh.
+1)
+
+# 2. Which command asks process 4242 to stop the polite way, so it can save its work first?
+2)
+
+# 3. Which one command stops every process with alarm.sh in its command line, the polite way?
+3)
+
+# 4. One of the mess's programs ignores the polite way. Which signal stops it? Write the signal's name.
+4)
+
+# 5. Which signal does Ctrl+C send to the program running in front of you? Write the signal's name.
+5)
